@@ -46,10 +46,6 @@
   border-style: solid;
 }
 
-.u-section-1 .u-table-entity-1 {
-  min-height: 100px;
-}
-
 .u-section-1 .u-table-header-1 {
   font-weight: 700;
   background-image: none;
@@ -1714,6 +1710,10 @@
 
   .u-section-1 .u-text-3 {
     margin-left: 167px;
+  }
+
+  .u-section-1 .u-table-entity-1 {
+    min-height: 100px;
   }
 }
 
