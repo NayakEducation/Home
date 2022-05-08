@@ -1328,7 +1328,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2309px;
+    min-height: 6895px;
   }
 
   .u-section-1 .u-text-1 {
@@ -1353,11 +1353,17 @@
 
   .u-section-1 .u-table-1 {
     width: 720px;
-    margin-left: 0;
+    margin-top: 1px;
+    margin-bottom: 59px;
+    margin-left: -215px;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2309px;
+  }
+
   .u-section-1 .u-text-1 {
     width: 540px;
   }
@@ -1371,10 +1377,6 @@
   }
 
   .u-section-1 .u-text-4 {
-    width: 540px;
-  }
-
-  .u-section-1 .u-table-1 {
     width: 540px;
   }
 }
@@ -1404,6 +1406,7 @@
   .u-section-1 .u-table-1 {
     margin-top: 20px;
     width: 340px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-table-cell-5 {
