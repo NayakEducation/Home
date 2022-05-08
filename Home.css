@@ -45,6 +45,10 @@
   border-style: solid;
 }
 
+.u-section-1 .u-table-entity-1 {
+  min-height: 100px;
+}
+
 .u-section-1 .u-table-header-1 {
   font-weight: 700;
   background-image: none;
@@ -549,10 +553,6 @@
     width: 1140px;
     margin-right: 0;
   }
-
-  .u-section-1 .u-table-entity-1 {
-    min-height: 100px;
-  }
 }
 
 @media (max-width: 1199px) {
@@ -643,8 +643,8 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-right: -50px;
-    margin-left: -38px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-4 {
